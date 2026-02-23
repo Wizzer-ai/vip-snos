@@ -1,0 +1,40 @@
+# Секреты и конфиги
+.env
+config_local.py
+*.secret.*
+*_secret.py
+
+# База данных
+database.json
+*.db
+*.sqlite
+*.sqlite3
+
+# Логи и временные файлы
+logs/
+*.log
+*.pkl
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Сессии Telegram
+sessions/
+*.session
+
+# Виртуальное окружение
+venv/
+env/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+.DS_Store
+Thumbs.db
