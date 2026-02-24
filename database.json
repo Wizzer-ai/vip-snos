@@ -1,0 +1,143 @@
+{
+  "users": {
+    "5997432799": {
+      "id": 1,
+      "tg_id": 5997432799,
+      "username": "Abanynda",
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T22:53:21.574924"
+    },
+    "7724334849": {
+      "id": 2,
+      "tg_id": 7724334849,
+      "username": "Podonkl",
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T22:57:43.199809"
+    },
+    "5485362122": {
+      "id": 3,
+      "tg_id": 5485362122,
+      "username": "gosharik339",
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:02:09.398667"
+    },
+    "1317510299": {
+      "id": 4,
+      "tg_id": 1317510299,
+      "username": "dwhow",
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:07:06.559284"
+    },
+    "8521626473": {
+      "id": 5,
+      "tg_id": 8521626473,
+      "username": null,
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:10:42.508804"
+    },
+    "1066757511": {
+      "id": 6,
+      "tg_id": 1066757511,
+      "username": "costgold",
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:14:48.120055"
+    },
+    "1472659518": {
+      "id": 7,
+      "tg_id": 1472659518,
+      "username": "tryioksa",
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:15:08.308288"
+    },
+    "7232323864": {
+      "id": 8,
+      "tg_id": 7232323864,
+      "username": null,
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:17:26.487131"
+    },
+    "8034698404": {
+      "id": 9,
+      "tg_id": 8034698404,
+      "username": null,
+      "total_spent": 0,
+      "plan_id": 1,
+      "sub_end": null,
+      "requests_left": 0,
+      "referrer": null,
+      "referrals": [],
+      "created_at": "2026-02-23T23:23:56.948155"
+    }
+  },
+  "pending": {},
+  "transactions": [],
+  "next_id": 10,
+  "settings": {
+    "support": "Write_forpizzabot",
+    "cryptobot": "CryptoBot",
+    "ton_wallet": "UQDfuvp0hT8spsS0bIvhqMaDdplMC5zz66-KKTqaglrQnPhw",
+    "tariffs": {
+      "1": {
+        "name": "🔥 Неделя",
+        "price_rub": 699,
+        "price_usdt": 7.5,
+        "duration": 7,
+        "requests": 500
+      },
+      "2": {
+        "name": "⚡️ Месяц",
+        "price_rub": 1999,
+        "price_usdt": 21,
+        "duration": 30,
+        "requests": 2000
+      },
+      "3": {
+        "name": "👑 Год",
+        "price_rub": 9999,
+        "price_usdt": 105,
+        "duration": 365,
+        "requests": 10000
+      }
+    }
+  }
+}

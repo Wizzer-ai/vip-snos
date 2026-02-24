@@ -1,0 +1,107 @@
+2026-02-23 21:49:24.644 | INFO     | __main__:main:1005 - 🚀 Запуск Snoser Bot...
+2026-02-23 21:49:24.668 | ERROR    | __main__:load_all:146 - Load error: 'Bot' object has no attribute 'get_chat_history'
+2026-02-23 21:49:25.175 | SUCCESS  | __main__:main:1024 - ✅ Бот готов!
+2026-02-23 21:49:25.175 | INFO     | __main__:main:1025 - 👑 Админ ID: [7308065271]
+2026-02-23 21:49:25.176 | INFO     | __main__:main:1026 - 📦 Канал БД: -1003820913832
+2026-02-23 22:16:48.710 | INFO     | __main__:<module>:1039 - 🛑 Бот остановлен
+2026-02-23 22:17:04.729 | INFO     | __main__:main:815 - 🚀 Запуск Snoser Bot...
+2026-02-23 22:17:05.527 | SUCCESS  | __main__:init:119 - ✅ База данных инициализирована
+2026-02-23 22:17:05.862 | SUCCESS  | __main__:main:827 - ✅ Бот готов!
+2026-02-23 22:17:05.863 | INFO     | __main__:main:828 - 👑 Админ ID: [7308065271]
+2026-02-23 22:28:11.307 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:28:11.497 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:28:58.824 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 24 seconds.
+Original description: Too Many Requests: retry after 24
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:28:58.950 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 24 seconds.
+Original description: Too Many Requests: retry after 24
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:28:59.336 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 24 seconds.
+Original description: Too Many Requests: retry after 24
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:28:59.515 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 23 seconds.
+Original description: Too Many Requests: retry after 23
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:28:59.722 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 23 seconds.
+Original description: Too Many Requests: retry after 23
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:00.155 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 23 seconds.
+Original description: Too Many Requests: retry after 23
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:00.300 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 22 seconds.
+Original description: Too Many Requests: retry after 22
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:00.430 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 22 seconds.
+Original description: Too Many Requests: retry after 22
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:00.554 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 22 seconds.
+Original description: Too Many Requests: retry after 22
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:00.672 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 22 seconds.
+Original description: Too Many Requests: retry after 22
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:11.387 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:11.516 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:11.640 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:12.035 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:12.163 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:12.443 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:12.622 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:13.058 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:13.470 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:29:13.877 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:05.115 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 21 seconds.
+Original description: Too Many Requests: retry after 21
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:05.405 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 20 seconds.
+Original description: Too Many Requests: retry after 20
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:05.686 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 20 seconds.
+Original description: Too Many Requests: retry after 20
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:05.902 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 20 seconds.
+Original description: Too Many Requests: retry after 20
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:06.106 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 20 seconds.
+Original description: Too Many Requests: retry after 20
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:06.303 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 19 seconds.
+Original description: Too Many Requests: retry after 19
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:06.462 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 19 seconds.
+Original description: Too Many Requests: retry after 19
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:06.584 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 19 seconds.
+Original description: Too Many Requests: retry after 19
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:06.709 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 19 seconds.
+Original description: Too Many Requests: retry after 19
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:30:06.832 | ERROR    | __main__:_post:241 - Ошибка отправки в канал: Telegram server says - Flood control exceeded on method 'SendMessage' in chat -1003820913832. Retry in 19 seconds.
+Original description: Too Many Requests: retry after 19
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+2026-02-23 22:48:53.325 | INFO     | __main__:<module>:841 - 🛑 Бот остановлен
